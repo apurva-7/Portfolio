@@ -5,4 +5,18 @@ html{
 body{
     background-color: #222831;
     color: #EEEEEE;
+    min-height: 100%;
+}
+
+#mainNavbar{
+    background-color: #00ADB5;
+}
+
+.main-row{
+    min-height: 90vh;
+}
+
+.cards{
+    height: 500px;
+    background-color: #393E46;
 }
